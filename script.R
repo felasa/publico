@@ -1,0 +1,3 @@
+mifun <- function() {
+  cat("HOLA")
+}
